@@ -13,7 +13,7 @@ docker build -t rawmind/alpine-ruby:<version> .
 
 ## Versions
 
-- `2.5.1-0` [(Dockerfile)](https://github.com/rawmind0/alpine-ruby/blob/2.5.1-0/Dockerfile)
+- `2.5.1-1` [(Dockerfile)](https://github.com/rawmind0/alpine-ruby/blob/2.5.1-1/Dockerfile)
 
 ## Usage
 
